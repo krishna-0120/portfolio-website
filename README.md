@@ -1,1 +1,1 @@
-This is my portfolio website.
+This is my personal portfolio website designed to professionally showcase my technical skills, projects, achievements, and experience as an aspiring software developer and tech enthusiast. The website highlights my expertise in Python, Data Science, Machine Learning, Web Development, Django, HTML, CSS, JavaScript, and various development tools.
